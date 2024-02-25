@@ -1,0 +1,29 @@
+{
+  "name": "@mashdiv/uws",
+  "version": "0.0.3",
+  "description": "A blazing fast web server for Node.js using uWebSockets.js",
+  "main": "dist/index.js",
+  "module": "dist/index.mjs",
+  "types": "dist/index.d.ts",
+  "private": false,
+  "scripts": {
+    "build": "tsup",
+    "docs": "docsify serve docs"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mash3div/mash-server.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "regexparam": "^3.0.0",
+    "uWebSockets.js": "github:uNetworking/uWebSockets.js#v20.42.0"
+  },
+  "devDependencies": {
+    "@types/node": "^20.11.7",
+    "tsup": "^8.0.1",
+    "typescript": "^5.3.3"
+  }
+}
