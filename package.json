@@ -1,6 +1,6 @@
 {
   "name": "@mashdiv/uws",
-  "version": "0.0.3",
+  "version": "0.0.4",
   "description": "A blazing fast web server for Node.js using uWebSockets.js",
   "main": "dist/index.js",
   "module": "dist/index.mjs",
@@ -12,7 +12,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/mash3div/mash-server.git"
+    "url": "git+https://github.com/MashDiv/mash-server.git"
   },
   "keywords": [],
   "author": "",

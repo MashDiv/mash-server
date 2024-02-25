@@ -123,4 +123,4 @@ Supported methods
 
 ## License
 
-Licensed under [MIT License](https://github.com/mash3div/mash-server/blob/main/LICENSE).
+Licensed under [MIT License](https://github.com/MashDiv/mash-server/blob/main/LICENSE).
